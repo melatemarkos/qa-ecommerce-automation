@@ -1,3 +1,6 @@
+### 🚧  Project Status: In Progress 🚧
+- This project is still a work in progress. Contributions, issues, and feedback are welcome!
+  
 # 💻 QA Automation for E-Commerce App
 This is a comprehensive QA project for a sample e-commerce site, built using the Page Object Model (POM) design pattern. It covers both **manual and automated testing** using Python, Selenium WebDriver, and PyTest.
 
